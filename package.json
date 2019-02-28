@@ -1,0 +1,11 @@
+{
+  "name": "wsc-wanlin-website",
+  "version": "1.0.0",
+  "description": "Wanlin Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waffle Soft Co. c/o Andre Wanlin",
+  "license": "MIT"
+}
